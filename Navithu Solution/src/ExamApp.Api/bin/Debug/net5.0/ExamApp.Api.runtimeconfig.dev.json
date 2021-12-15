@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Navithu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Navithu\\.nuget\\packages"
+    ]
+  }
+}
